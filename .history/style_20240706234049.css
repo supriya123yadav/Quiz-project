@@ -1,0 +1,14 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: serif;
+    box-sizing: border-box;
+
+}
+body{
+    background: #001e4d;
+}
+.app{
+    background:bisque
+
+}
